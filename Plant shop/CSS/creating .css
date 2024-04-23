@@ -1,0 +1,70 @@
+#hi{
+	padding: 10px;
+	position: sticky;
+}
+h2{
+	padding:20px;
+	text-align:right;
+	margin-right: 145px;
+}
+
+#Sign{
+	margin-left: 10px;
+	font-size: 30px;
+
+}
+
+input[type=text] {
+width: 100%;
+padding: 12px 20px;
+margin: 8px 0px;
+border-radius: 25px;
+border: 2px solid  ;
+background-color: lightblue;
+
+color: black;
+}
+
+
+input[type=email] {
+	width: 100%;
+padding: 12px 20px;
+margin: 8px 0px;
+border-radius: 25px;
+border: 2px solid  ;
+background-color: lightblue;
+
+} 
+input[type=Password] {
+	width: 100%;
+padding: 12px 20px;
+margin: 8px 0px;
+border-radius: 25px;
+border: 2px solid  ;
+background-color: lightblue;
+}
+
+button[type=submit] {
+	width: 100px;
+padding: 12px 20px;
+margin: 8px 0px;
+border-radius: 25px;
+border: 2px solid  ;
+background-color: lightblue;
+text-align: left;
+}
+ div.cr{
+ 	width: 400px;
+ 	border-style: 0px inden;
+ 	margin-left: 800px;
+
+ }
+
+ #iv{
+  
+ }
+
+ 
+body {
+  background-image: url("C:\Users\Tony Hacker\Desktop\Plant shop\IMAGES\Monstera.jpg");
+}
